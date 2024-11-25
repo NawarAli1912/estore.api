@@ -101,8 +101,3 @@ This project is licensed under the [MIT License](LICENSE).
 | src\Infrastructure (Debug)   | 73%                    |
 | src\Presentation (Debug)     | 73%                    |
 | src\SharedKernel (Debug)     | 95%                    |
-
-## Notes
-
-This project is still under development.
-
